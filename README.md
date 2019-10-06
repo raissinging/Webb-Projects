@@ -1,2 +1,5 @@
-# Monty-Hall-Problem-Simulation-Python-
-Was bored and decided to simulate a question from my AP stats class. 
+# AP Stats Python Stuff
+Random things I do in python when I'm bored that relates to my AP Stats class.
+
+## Monty Hall Problem
+## Dice Rolling
