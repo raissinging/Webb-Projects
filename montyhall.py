@@ -13,6 +13,9 @@ doors = [A, B, C]
 
 
 def simulate_stay(trials):
+    """ 
+    simulates if a computer stays on its door 
+    """
     x = trials 
     win = 0 
     lose = 0 
@@ -27,6 +30,9 @@ def simulate_stay(trials):
     print ("Win:" , win/trials*100,"%", " Lose:", lose/trials*100,"%")
 
 def simulate_switch(trials):
+    """ 
+    simulates if a computer switches its door 
+    """
     x = trials 
     win = 0 
     lose = 0 
@@ -53,6 +59,9 @@ def simulate_switch(trials):
     print ("Win:" , win/trials*100,"%", " Lose:", lose/trials*100,"%")
 
 def user_tries(): 
+    """
+    allows user to play the game
+    """ 
     prize = random.choice(doors)
     vA = '[A]'
     vB = '[B]'
