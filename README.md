@@ -2,8 +2,8 @@
 Random things I do in python when I'm bored that relates to my AP Stats class.
 
 ## Monty Hall Problem
-hehe
+Parents Day problem. 
 ## Dice Rolling
-haha
+Not actaully for AP Stats ... (it was for the first lab in AP Physics C) 
 ## 5.1 Problem 26
-hoho
+Carrying out the Lotto game and seeing if it is suprising to not get any matching numbers on the ticket. 
