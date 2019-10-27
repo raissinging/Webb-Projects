@@ -5,3 +5,5 @@ Random things I do in python when I'm bored that relates to my AP Stats class.
 hehe
 ## Dice Rolling
 haha
+## 5.1 Problem 26
+hoho
