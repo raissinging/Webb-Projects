@@ -20,5 +20,5 @@ Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score
 Parents Day problem for AP Stats: simulating the famous monty hall problem. 
 ## Dice Rolling
 First Lab for physics C; very simple program simulating dice rolls
-## 5.1 Problem 26
-Carrying out the Lotto game and seeing if it is suprising to not get any matching numbers on the ticket. 
+## AP Statistics Textbook: 5.1 Problem 26
+Carrying out the lotto game and seeing if it is suprising to not get any matching numbers on the ticket. 
