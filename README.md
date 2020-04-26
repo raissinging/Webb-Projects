@@ -11,7 +11,7 @@ Our question is whether or not we can use a linear regression model to predict a
 I compared different works to my own writting to see which one was the most similar to mine, writting style wise.
 
 ## Substitution Madlib HTML/Python Project
-A program that substitutes certain words in a string of texts with other, mostly humorous, words, and then auto-generates html code to display the changes. 
+A program that substitutes certain words in a string of texts with other, mostly humorous, words, and then generates html code to display the changes. 
 
 ## Movie Picker
 Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score.
