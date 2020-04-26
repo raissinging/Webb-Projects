@@ -1,6 +1,9 @@
 # The Webb Schools: My Projects  
 Projects I did in python for different classes during my time in high school.
 
+## Word2vec Projects: Machine Learning
+1. Finding an outlier from a list of words and generating a png image to visualize it. 2. Uses machine learning to generate analogies and then checks how good they are. 3. Uses machine learning to attempt to classify movie reviews as positive or negative 
+
 ## AP Statistics Final Project
 Our question is whether or not we can use a linear regression model to predict a Pokemon’s CP based on the sum of its HP, attack, defense, sp attack, sp defense, and speed stats from the original games (a quick estimate to use rather than the actual formula to calcualte CP, which is quite complex). If we find evidence that it is indeed a valid model, this would suggest some utility in using this model to predict what the CPs of future generation Pokemon that will be in Pokemon Go. 
 
@@ -9,9 +12,6 @@ I compared different works to my own writting to see which one was the most simi
 
 ## Substitution Madlib HTML/Python Project
 A program that substitutes certain words in a string of texts with other, mostly humorous, words, and then auto-generates html code to display the changes. 
-
-## Word2vec Projects: Machine Learning
-1. Finding an outlier from a list of words and generating a png image to visualize it. 2. Uses machine learning to generate analogies and then checks how good they are. 3. Uses machine learning to attempt to classify movie reviews as positive or negative 
 
 ## Movie Picker
 Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score.
