@@ -1,5 +1,5 @@
 # The Webb Schools: My Projects  
-Projects I did in python for different classes during my time in high school.
+My favorite projects from different classes during my time in high school.
 
 ## Word2vec Projects
 1: Uses machine learning to find the outlier from a list of words and generating a png image to visualize it. 2: Uses machine learning to generate analogies and then checks how good they are. 3: Uses machine learning to attempt to classify movie reviews as positive or negative 
