@@ -17,7 +17,7 @@ A program that substitutes certain words in a string of texts with other, mostly
 Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score.
 
 ## Monty Hall Problem
-Parents Day problem for AP Stats: the famous monty hall problem. 
+Parents Day problem for AP Stats: simulating the famous monty hall problem. 
 ## Dice Rolling
 First Lab for physics C; very simple program simulating dice rolls
 ## 5.1 Problem 26
