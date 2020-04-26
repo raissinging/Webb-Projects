@@ -1,5 +1,5 @@
-# AP Stats Python Stuff
-Random things I do in python when I'm bored that relates to my AP Stats class.
+# The Webb Schools: My Projects  
+Random things I do in python for different classes during my time in high school.
 
 ## Monty Hall Problem
 Parents Day problem. 
