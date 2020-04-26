@@ -4,6 +4,9 @@ Random things I do in python for different classes during my time in high school
 ## AP Statistics Final Project
 Our question is whether or not we can use a linear regression model to predict a Pokemon’s CP based on the sum of its HP, attack, defense, sp attack, sp defense, and speed stats from the original games (a much more simpler way than the actual formula to calcualte CP). If we find evidence that it is indeed a valid model, this would suggest some utility in using this model to predict what the CPs of Gen 8 Pokemon will be in Pokemon Go. 
 
+## Comparing Text Project
+I compared different works to my own writting to see which one was the most similar to mine, writting style wise.
+
 ## Monty Hall Problem
 Parents Day problem for AP Stats: the famous monty hall problem. 
 ## Dice Rolling
