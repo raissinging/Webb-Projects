@@ -7,6 +7,9 @@ Our question is whether or not we can use a linear regression model to predict a
 ## Comparing Text Project
 I compared different works to my own writting to see which one was the most similar to mine, writting style wise.
 
+## Movie Picker
+Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score.
+
 ## Monty Hall Problem
 Parents Day problem for AP Stats: the famous monty hall problem. 
 ## Dice Rolling
