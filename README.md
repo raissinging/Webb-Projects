@@ -10,6 +10,9 @@ I compared different works to my own writting to see which one was the most simi
 ## Substitution Madlib HTML/Python Project
 A program that substitutes certain words in a string of texts with other, mostly humorous, words, and then auto-generates html code to display the changes. 
 
+## Word2vec Projects: Machine Learning
+1. Finding an outlier from a list of words and generating a png image to visualize it. 2. Uses machine learning to generate analogies and then checks how good they are. 3. Uses machine learning to attempt to classify movie reviews as positive or negative 
+
 ## Movie Picker
 Helps you pick between two movies bassed on their Rotten Tomatoes and IMDB score.
 
