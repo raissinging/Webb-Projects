@@ -96,7 +96,10 @@ def main():
     print (movieone)
     movietwo = str(input("Enter second movie : ")) 
     print (movietwo)
-    whichmovie(movieone, movietwo)
+    try:
+        whichmovie(movieone, movietwo)
+    except UnboundLocalError: 
+        print('Movie(s) entered may be mispelled; please try again...')
     # """
 
 if __name__ == "__main__":
