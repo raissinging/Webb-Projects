@@ -34,7 +34,7 @@ def rottentomatoes(movie):
     data = response.text
     soup = BeautifulSoup(data, 'lxml')
     #return soup
-    score = soup.find('span', attrs={'class': 'meter-value superPageFontColor'})
+    score = soup.find('span', attrs={'class': 'mop-ratings-wrap__percentage'})
     score = str(score)
     score = int(clean_digits(score))
     return score
@@ -42,7 +42,6 @@ def rottentomatoes(movie):
 def imdb(title) :
     """
     returns imdb score of movie and multiplies it by 10
-
     examples 'Logan' or 'Rocky'
     """ 
     url = 'https://www.imdb.com/chart/top'
@@ -79,6 +78,7 @@ def whichmovie(movie1, movie2):
 
         
 def main():
+    """
     print('Huh which movie should I watch ....') 
     print('The Dark Knight or Pulp Fiction')
     whichmovie('The Dark Knight', 'Pulp Fiction')
@@ -91,7 +91,15 @@ def main():
     print()
     print("Ugh, too many choices ... ")
     print("I'll just watch Shrek again")
+    """
+    movieone = input("Enter first movie : ") 
+    print (movieone)
+    movietwo = str(input("Enter second movie : ")) 
+    print (movieone)
+    whichmovie(movieone, movietwo)
+    # """
 
 if __name__ == "__main__":
     main()  
 
+    
