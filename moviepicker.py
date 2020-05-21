@@ -95,7 +95,7 @@ def main():
     movieone = input("Enter first movie : ") 
     print (movieone)
     movietwo = str(input("Enter second movie : ")) 
-    print (movieone)
+    print (movietwo)
     whichmovie(movieone, movietwo)
     # """
 
